@@ -21,5 +21,3 @@ A Java-based desktop application for managing employees and tasks with GUI, foll
 - **GUI**: Java Swing
 - **Architecture**: Layered 
 - **Persistence**: Java Serialization
-
-## 🏗️ Application Architecture
